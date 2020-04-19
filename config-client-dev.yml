@@ -1,0 +1,7 @@
+user:
+  role:
+    Developer
+  password: "{cipher}PASSWORD"
+
+message: fuck all of you12
+
